@@ -1,0 +1,26 @@
+{
+  "name": "payment-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Hugo",
+  "license": "ISC",
+  "description": "huPayments server backend",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgalbarini/huPayments.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hgalbarini/huPayments/issues"
+  },
+  "homepage": "https://github.com/hgalbarini/huPayments#readme"
+}
